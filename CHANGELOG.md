@@ -11,7 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Header and footer sections in HTML
 - New CSS file for layout and styling
-- Created `/CHANGELOG.md` file
+- Added links of the fonts to be used in the `index.html` file
+- Created `CHANGELOG.md` file to track all changes and features
+- Added the main body of the page in the `index.html` file
+
+### Changed 
+- Changed the `title` of the page
+- Refined the `author-info` to make it look more like a footer.
+- Changed the background of `author-info`
 
 ### In Progress
 - FAQ section functionality (toggle/accordion behavior)
