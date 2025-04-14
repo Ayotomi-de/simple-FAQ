@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: poppins, sans-serif;
+}
+
+.author-info {
+  text-align: center;
+  font-size: 14px;
+  color: rgb(55, 65, 81);
+  /* Dark text color */
+  padding: 15px;
+  background-color: #e8eaec;
+  /* Light background */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
+}
+
+
+.header {
+  display: flex;
+  ali
+}
