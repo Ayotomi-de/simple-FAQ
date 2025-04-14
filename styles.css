@@ -8,6 +8,8 @@ body {
   height: 100%;
   width: 100%;
   font-family: poppins, sans-serif;
+  overflow-x: hidden;
+  /* Prevent horizontal scroll */
 }
 
 .author-info {
@@ -16,9 +18,9 @@ body {
   color: rgb(55, 65, 81);
   /* Dark text color */
   padding: 15px;
-  background-color: #e8eaec;
+  background-color: #f4f7f9;
   /* Light background */
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
   box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
@@ -27,5 +29,78 @@ body {
 
 .header {
   display: flex;
-  ali
+  flex-direction: column;
+  padding-top: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.header p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.faq-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* Align content to the left */
+  justify-content: flex-start;
+  /* Start from the top */
+  padding: 20px;
+  padding-left: 400px;
+  margin: 0;
+  /* Remove default margin */
+  background-color: #f4f7f9;
+  width: 100vw;
+  /* Full width of the viewport */
+  min-height: 100vh;
+  /* At least the full height of the viewport */
+  box-sizing: border-box;
+  /* Includes padding in width/height */
+  line-height: 2.0;
+  /* Line height for better readability */
+}
+
+.faq-container h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+  margin-top: 20px;
+}
+
+.faq-container p {
+  padding: 20px 0;
+}
+
+.faq-container ol {
+  padding-left: 20px;
+}
+
+.faq-container ul {
+  padding-left: 30px;
+}
+
+.faq-container li {
+  margin-bottom: 10px;
+  /* Space between list items */
+}
+
+.divider {
+  border: none;
+  height: 1px;
+  background-color: #cfcfcf;
+  /* Light gray, but visible */
+  opacity: 0.6;
+  /* Slightly faded for minimal feel */
+  width: 70%;
+  margin: 30px 0;
+  /* Space above and below the line */
 }
