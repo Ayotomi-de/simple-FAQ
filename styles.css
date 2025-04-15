@@ -12,21 +12,6 @@ body {
   /* Prevent horizontal scroll */
 }
 
-.author-info {
-  text-align: center;
-  font-size: 14px;
-  color: rgb(55, 65, 81);
-  /* Dark text color */
-  padding: 15px;
-  background-color: #f4f7f9;
-  /* Light background */
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
-}
-
-
 .header {
   display: flex;
   flex-direction: column;
@@ -36,7 +21,7 @@ body {
 }
 
 .header h1 {
-  font-size: 24px;
+  font-size: 30px;
   color: #333;
   margin-bottom: 10px;
 }
@@ -70,7 +55,7 @@ body {
 }
 
 .faq-container h3 {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
   color: #333;
   margin-top: 20px;
@@ -103,4 +88,40 @@ body {
   width: 70%;
   margin: 30px 0;
   /* Space above and below the line */
+}
+
+.author-info {
+  text-align: center;
+  font-size: 14px;
+  color: rgb(55, 65, 81);
+  /* Dark text color */
+  padding: 15px;
+  background-color: #f4f7f9;
+  /* Light background */
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.author-info a {
+  color: #4E80EE;
+  text-decoration: none;
+  /* Remove underline */
+}
+
+.author-info a:hover {
+  text-decoration: underline;
+  /* Underline on hover */
+}
+
+.faq-container a {
+  color: #4E80EE;
+  text-decoration: none;
+  /* Remove underline */
+}
+
+.faq-container a:hover {
+  text-decoration: underline;
+  /* Underline on hover */
 }
