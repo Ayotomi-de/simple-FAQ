@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Smooth toggle animations for expanding and collapsing answers
 - Polished scroll bar
+- Better animation/transitions
 
 
 ## [0.3.0] -2025-04-15
