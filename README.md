@@ -67,7 +67,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 ## Acknowledgements
-<a href="http://devchallenges.io" target="_blank">DevChallenges.io</a> for providing the project idea.
+<a href="http://devchallenges.io" target="_blank">DevChallenges.io</a> for providing the project idea.<br />
 My good friend that introduced me to the site.
 
 
