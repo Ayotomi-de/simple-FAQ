@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Desktop, tablet and mobile friendly.
 - Improved SEO content
+- Added a detailed `README.md` file.
 
 ### Changed
 - Renamed README_template.md to README.md
