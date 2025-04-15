@@ -38,9 +38,9 @@
 
 ## Overview
 
-![screenshot 1]("C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223331.png")
-![screenshot 2]("C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223519.png")
-![screenshot 3]("C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223601.png")
+![screenshot 1](C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223331.png)
+![screenshot 2](C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223519.png)
+![screenshot 3](C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223601.png)
 
 
 ### What I learned
@@ -51,8 +51,7 @@ I incorporated semantic HTML structure and explored responsive design techniques
 
 ### Useful resources
 - [CHATGPT](https://chatgpt.com/) - This helped me understand git and it's concepts. I'll recommend it to anyone who wants to understand the basics of git.
-- [Flexbox Froggy](https://flexboxfroggy.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [Flexbox Froggy](https://flexboxfroggy.com) - Helped solidify my understanding of flexbox.
 
 ### Built with
 - Semantic HTML5 markup
@@ -73,5 +72,5 @@ My good friend that introduced me to the site.
 
 
 ## Author
-- Website [Ayotomide's FAQ Website](https://ayotomi-de.github.io/simple-FAQ/)
-- GitHub [Ayotomi-de](https://github.com/Ayotomi-de/simple-FAQ)
+- Website: [Ayotomide's FAQ Website](https://ayotomi-de.github.io/simple-FAQ/)
+- GitHub: [Ayotomi-de](https://github.com/Ayotomi-de/simple-FAQ)
