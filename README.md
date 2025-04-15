@@ -44,9 +44,17 @@
 
 
 ### What I learned
-Developing this project was a thrilling journey. A start of something new and exciting expecially as it is the first challenge I've embarked on from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+Developing this project was both fun and enlightening! As my very first challenge from [devChallenges.io](https://devchallenges.io), it gave me a practical chance to apply and strengthen the basics I’ve been learning.
 
-I incorporated semantic HTML structure and explored responsive design techniques with CSS, including flexbox and custom properties. I also practiced structuring my project better and pushing commits consistently with Git.
+Here’s what I gained from the experience:
+
+- 🧠 **Improved my understanding of HTML structure** by using semantic tags like `<main>`, `<footer>`.
+- 🎨 **Practiced CSS styling techniques**, including flexbox layouts, spacing, font customization, and media responsiveness.
+- 📁 **Learned better file organization** — I grouped assets like screenshots properly into folders for a cleaner project.
+- 🛠️ **Worked with Git and GitHub** more confidently — writing commit messages, pushing changes, and understanding how to sync my local repo with GitHub.
+- 🧪 **Debugged live site issues** like broken image paths— I learned how important testing and checking deployment is!
+
+This project was a great way to build my confidence and get hands-on with front-end development. I’m proud of how it turned out and excited for the next challenge!
 
 
 ### Useful resources
