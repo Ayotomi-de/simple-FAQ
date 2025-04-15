@@ -38,9 +38,9 @@
 
 ## Overview
 
-![screenshot 1](C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223331.png)
-![screenshot 2](C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223519.png)
-![screenshot 3](C:\Users\awolu\OneDrive\Pictures\Screenshots\Screenshot 2025-04-15 223601.png)
+![screenshot 1](design/Screenshot 2025-04-15 223331.png)
+![screenshot 2](design/Screenshot 2025-04-15 223519.png)
+![screenshot 3](design/Screenshot 2025-04-15 223601.png)
 
 
 ### What I learned
